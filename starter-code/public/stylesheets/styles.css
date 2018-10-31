@@ -1,0 +1,14 @@
+body {
+  color: blue;
+  background-color: bisque;
+}
+.links {
+  display: flex;
+  flex-direction: column;
+}
+.catcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
